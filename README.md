@@ -1,6 +1,7 @@
 # 🏙️Population-Ranking-Animation-using-Power-BI
 
 🎯Project Overview:
+
 This project focuses on developing skills in data visualization using Microsoft Power BI. The main objective is to create an animated scatter chart that displays population trends for various cities over time. The project involves data preprocessing using Python, followed by visualization and animation in Power BI.
 
 🛠️Technologies Used:
