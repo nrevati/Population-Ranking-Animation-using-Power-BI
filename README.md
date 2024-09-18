@@ -48,6 +48,7 @@ Recording: Camtasia is used to record the animated visualization from Power BI. 
 
 
 💡Results:
+
 The project results in an interactive, animated scatter chart that visualizes population trends across different cities over time. Key features of the final visualization include:
 
 A dynamic representation of population changes over years.
